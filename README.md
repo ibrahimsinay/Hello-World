@@ -1,4 +1,3 @@
-# Hello-World
-Just another repository.
+# Optimisasi Menggunakan Metode Simplek 2
 
-Hi.
+Penyelesaian masalah optimisasi menggunakan metode simplek 2 dibantu dengan software Matlab
